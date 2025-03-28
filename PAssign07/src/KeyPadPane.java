@@ -1,4 +1,4 @@
-package keypad;
+
 /**
  * File: csci1302/keypad/KeyPadPane.java
  * Package: keypad
